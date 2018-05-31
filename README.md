@@ -1,0 +1,2 @@
+# arduino-rcbluetooth-controller-car
+Project "Phone Controlled Car"  The Android application controlled robot communicates via Bluetooth to the Bluetooth module present on the machine.  While pressing each button on the application, corresponding commands are sent via Bluetooth to the machine.  The commands that are sent are in the form of ASCII.  Machine can go forward, back, left, right  or to stop.  Thus allowing us to create an Android controlled robot.
